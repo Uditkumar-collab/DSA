@@ -3,7 +3,7 @@ public:
     int removeDuplicates(vector<int>& nums) {
         int i =0;
         int j =1;
-        if(nums.empty())
+        if(nums.empty()) //for edge case.
         return 0;
 
         for(j=1; j<nums.size(); j++){
