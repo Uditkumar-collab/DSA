@@ -9,6 +9,7 @@ In this  repository DSA question will be solve.
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Uditkumar-collab/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Uditkumar-collab/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Uditkumar-collab/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Uditkumar-collab/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Uditkumar-collab/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
@@ -19,6 +20,7 @@ In this  repository DSA question will be solve.
 ## Prefix Sum
 |  |
 | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Uditkumar-collab/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Uditkumar-collab/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
