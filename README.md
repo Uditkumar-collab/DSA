@@ -6,6 +6,7 @@ In this  repository DSA question will be solve.
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Uditkumar-collab/DSA/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Uditkumar-collab/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Uditkumar-collab/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Uditkumar-collab/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -39,4 +40,8 @@ In this  repository DSA question will be solve.
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Uditkumar-collab/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Uditkumar-collab/DSA/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
