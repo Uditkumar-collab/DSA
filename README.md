@@ -15,6 +15,7 @@ In this  repository DSA question will be solve.
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Uditkumar-collab/DSA/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/Uditkumar-collab/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Uditkumar-collab/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Uditkumar-collab/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -54,4 +55,8 @@ In this  repository DSA question will be solve.
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Uditkumar-collab/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Uditkumar-collab/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
