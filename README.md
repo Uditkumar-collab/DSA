@@ -16,6 +16,7 @@ In this  repository DSA question will be solve.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Uditkumar-collab/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Uditkumar-collab/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Uditkumar-collab/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3871-count-commas-in-range-ii](https://github.com/Uditkumar-collab/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Uditkumar-collab/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -65,6 +66,7 @@ In this  repository DSA question will be solve.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Uditkumar-collab/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Uditkumar-collab/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
