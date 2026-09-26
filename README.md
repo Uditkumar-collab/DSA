@@ -7,6 +7,7 @@ In this  repository DSA question will be solve.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Uditkumar-collab/DSA/tree/master/0835-image-overlap) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Uditkumar-collab/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Uditkumar-collab/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Uditkumar-collab/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Uditkumar-collab/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -35,6 +36,7 @@ In this  repository DSA question will be solve.
 | [0115-distinct-subsequences](https://github.com/Uditkumar-collab/DSA/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/Uditkumar-collab/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Uditkumar-collab/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Uditkumar-collab/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Uditkumar-collab/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -81,6 +83,7 @@ In this  repository DSA question will be solve.
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Uditkumar-collab/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Uditkumar-collab/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Uditkumar-collab/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
