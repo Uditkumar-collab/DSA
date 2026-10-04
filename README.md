@@ -35,6 +35,7 @@ In this  repository DSA question will be solve.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Uditkumar-collab/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Uditkumar-collab/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Uditkumar-collab/DSA/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/Uditkumar-collab/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Uditkumar-collab/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -46,6 +47,7 @@ In this  repository DSA question will be solve.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Uditkumar-collab/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Uditkumar-collab/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Uditkumar-collab/DSA/tree/master/0115-distinct-subsequences) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Uditkumar-collab/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Uditkumar-collab/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -99,6 +101,7 @@ In this  repository DSA question will be solve.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Uditkumar-collab/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Uditkumar-collab/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Uditkumar-collab/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Uditkumar-collab/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -110,6 +113,7 @@ In this  repository DSA question will be solve.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Uditkumar-collab/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Uditkumar-collab/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Uditkumar-collab/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Uditkumar-collab/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Uditkumar-collab/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
